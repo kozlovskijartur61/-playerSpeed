@@ -1,0 +1,4 @@
+    playerX = 50;
+        playerY = 50;
+        playerSpeed = 5;
+    }
